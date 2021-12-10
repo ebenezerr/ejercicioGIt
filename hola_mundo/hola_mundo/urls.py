@@ -19,3 +19,5 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
+
+#Ejemplo de una Rama de Git (ejemplo_rama) esta realizando esta operacion
